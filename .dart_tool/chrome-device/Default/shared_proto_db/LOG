@@ -1,0 +1,36 @@
+2024/11/03-17:40:33.252 1860 Reusing MANIFEST C:\Users\aaham\AppData\Local\Temp\flutter_tools.60fdfc8c\flutter_tools_chrome_device.a72c6707\Default\shared_proto_db/MANIFEST-000001
+2024/11/03-17:40:33.254 1860 Recovering log #42
+2024/11/03-17:40:33.257 1860 Reusing old log C:\Users\aaham\AppData\Local\Temp\flutter_tools.60fdfc8c\flutter_tools_chrome_device.a72c6707\Default\shared_proto_db/000042.log 
+2024/11/03-17:40:33.258 1860 Delete type=0 #3
+2024/11/03-17:40:33.258 1860 Delete type=0 #4
+2024/11/03-17:40:33.258 1860 Delete type=0 #7
+2024/11/03-17:40:33.258 1860 Delete type=2 #8
+2024/11/03-17:40:33.258 1860 Delete type=0 #10
+2024/11/03-17:40:33.258 1860 Delete type=2 #11
+2024/11/03-17:40:33.258 1860 Delete type=0 #13
+2024/11/03-17:40:33.258 1860 Delete type=2 #14
+2024/11/03-17:40:33.258 1860 Delete type=0 #16
+2024/11/03-17:40:33.258 1860 Delete type=2 #17
+2024/11/03-17:40:33.258 1860 Delete type=0 #19
+2024/11/03-17:40:33.258 1860 Delete type=2 #21
+2024/11/03-17:40:33.259 1860 Delete type=0 #23
+2024/11/03-17:40:33.259 1860 Delete type=2 #24
+2024/11/03-17:40:33.259 1860 Delete type=0 #26
+2024/11/03-17:40:33.259 1860 Delete type=2 #27
+2024/11/03-17:40:33.259 1860 Delete type=0 #29
+2024/11/03-17:40:33.259 1860 Delete type=2 #30
+2024/11/03-17:40:33.259 1860 Delete type=0 #32
+2024/11/03-17:40:33.259 1860 Delete type=0 #36
+2024/11/03-17:40:33.259 1860 Delete type=0 #39
+2024/11/03-17:40:33.282 1860 Level-0 table #46: started
+2024/11/03-17:40:33.288 1860 Level-0 table #46: 136311 bytes OK
+2024/11/03-17:40:33.289 1860 Delete type=0 #42
+2024/11/03-17:40:33.290 1860 Compacting 4@0 + 1@1 files
+2024/11/03-17:40:33.294 1860 Generated table #47@0: 1661 keys, 76554 bytes
+2024/11/03-17:40:33.295 1860 Compacted 4@0 + 1@1 files => 76554 bytes
+2024/11/03-17:40:33.295 1860 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/03-17:40:33.296 1860 Delete type=2 #34
+2024/11/03-17:40:33.296 1860 Delete type=2 #37
+2024/11/03-17:40:33.296 1860 Delete type=2 #40
+2024/11/03-17:40:33.296 1860 Delete type=2 #43
+2024/11/03-17:40:33.296 1860 Delete type=2 #46

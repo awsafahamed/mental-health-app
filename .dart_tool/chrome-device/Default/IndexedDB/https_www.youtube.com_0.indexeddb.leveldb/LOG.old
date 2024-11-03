@@ -1,0 +1,46 @@
+2024/09/26-01:14:32.215 3dd4 Reusing MANIFEST C:\Users\aaham\AppData\Local\Temp\flutter_tools.b1d98f1f\flutter_tools_chrome_device.caea2022\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/26-01:14:32.216 3dd4 Recovering log #47
+2024/09/26-01:14:32.217 3dd4 Reusing old log C:\Users\aaham\AppData\Local\Temp\flutter_tools.b1d98f1f\flutter_tools_chrome_device.caea2022\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000047.log 
+2024/09/26-01:14:32.218 3dd4 Delete type=0 #3
+2024/09/26-01:14:32.218 3dd4 Delete type=2 #14
+2024/09/26-01:14:32.218 3dd4 Delete type=0 #15
+2024/09/26-01:14:32.218 3dd4 Delete type=2 #17
+2024/09/26-01:14:32.218 3dd4 Delete type=2 #27
+2024/09/26-01:14:32.218 3dd4 Delete type=0 #28
+2024/09/26-01:14:32.218 3dd4 Delete type=2 #30
+2024/09/26-01:14:32.218 3dd4 Delete type=2 #46
+2024/09/26-01:14:32.790 298 Level-0 table #52: started
+2024/09/26-01:14:32.793 298 Level-0 table #52: 37935 bytes OK
+2024/09/26-01:14:32.795 298 Delete type=0 #47
+2024/09/26-01:14:32.795 298 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/26-01:14:32.795 26dc Manual compaction at level-1 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at '\x00(\x01\x1f\x03\x00\xb0pk\xab"yB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6055 : 1
+2024/09/26-01:14:32.795 26dc Compacting 1@1 + 1@2 files
+2024/09/26-01:14:32.799 26dc Generated table #53@1: 634 keys, 31180 bytes
+2024/09/26-01:14:32.799 26dc Compacted 1@1 + 1@2 files => 31180 bytes
+2024/09/26-01:14:32.800 26dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/26-01:14:32.800 26dc Delete type=2 #52
+2024/09/26-01:14:32.801 26dc Manual compaction at level-1 from '\x00(\x01\x1f\x03\x00\xb0pk\xab"yB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6055 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/26-01:14:32.836 298 Level-0 table #55: started
+2024/09/26-01:14:32.840 298 Level-0 table #55: 2094 bytes OK
+2024/09/26-01:14:32.841 298 Delete type=2 #49
+2024/09/26-01:14:32.841 298 Delete type=0 #51
+2024/09/26-01:14:32.842 26dc Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/26-01:14:32.842 26dc Manual compaction at level-1 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at '\x00(\x02\x1f\x03\x00\xb0pk\xab"yB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6109 : 1
+2024/09/26-01:14:32.842 26dc Compacting 1@1 + 1@2 files
+2024/09/26-01:14:32.846 26dc Generated table #56@1: 600 keys, 31688 bytes
+2024/09/26-01:14:32.846 26dc Compacted 1@1 + 1@2 files => 31688 bytes
+2024/09/26-01:14:32.847 26dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/26-01:14:32.847 26dc Delete type=2 #55
+2024/09/26-01:14:32.847 26dc Manual compaction at level-1 from '\x00(\x02\x1f\x03\x00\xb0pk\xab"yB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6109 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/26-01:14:34.837 26dc Level-0 table #58: started
+2024/09/26-01:14:34.840 26dc Level-0 table #58: 42528 bytes OK
+2024/09/26-01:14:34.841 26dc Delete type=2 #53
+2024/09/26-01:14:34.842 26dc Delete type=0 #54
+2024/09/26-01:14:34.842 26dc Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/26-01:14:34.842 26dc Manual compaction at level-1 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00(\x02\x1f\x03\x00\x90\xc2k\xab"yB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 6309 : 1
+2024/09/26-01:14:34.842 26dc Compacting 1@1 + 1@2 files
+2024/09/26-01:14:34.846 26dc Generated table #59@1: 565 keys, 31143 bytes
+2024/09/26-01:14:34.846 26dc Compacted 1@1 + 1@2 files => 31143 bytes
+2024/09/26-01:14:34.847 26dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/26-01:14:34.848 26dc Delete type=2 #58
+2024/09/26-01:14:34.849 26dc Manual compaction at level-1 from '\x00(\x02\x1f\x03\x00\x90\xc2k\xab"yB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 6309 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)

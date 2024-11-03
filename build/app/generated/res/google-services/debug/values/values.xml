@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">876115920494</string>
+    <string name="google_api_key" translatable="false">AIzaSyB6IgkcxACJmP7YB8Ep2M5uwokqVrv1TJA</string>
+    <string name="google_app_id" translatable="false">1:876115920494:android:3954760bc287edfd79c87f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB6IgkcxACJmP7YB8Ep2M5uwokqVrv1TJA</string>
+    <string name="google_storage_bucket" translatable="false">emotional-support-app-ed753.appspot.com</string>
+    <string name="project_id" translatable="false">emotional-support-app-ed753</string>
+</resources>
